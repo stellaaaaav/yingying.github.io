@@ -119,5 +119,6 @@ awards:
 
 ## About Me
 
-I am currently a final year PhD student at Rice University advised by Dr. Taiyun Chi and expected to graduate in Dec 2024. My research interest is in Analog/RF/mmWave application-specific integrated circuit(ASIC) and system design for biomedical applications, including but not limited to implantable, wearable and wireless biomedical devices, miniaturized neural interface implants. I am on job market 2024-2025.
+I am currently a final year PhD student at Rice University advised by Dr. Taiyun Chi and expected to graduate in Dec 2024. My research interest is in Analog/RF/mmWave application-specific integrated circuit(ASIC) and system design for biomedical applications, including but not limited to implantable, wearable and wireless biomedical devices, miniaturized neural interface implants. 
+I am on job market 2024-2025.
 
