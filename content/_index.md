@@ -30,17 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-        content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
- 
+
   - block: collection
     id: news
     content:
