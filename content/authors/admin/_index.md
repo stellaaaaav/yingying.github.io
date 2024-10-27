@@ -52,8 +52,8 @@ interests:
   - Brain machine interface
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Electrical and Computer Engineering
+    institution: Rice University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
