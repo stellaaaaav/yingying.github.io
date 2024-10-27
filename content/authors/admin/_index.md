@@ -108,17 +108,12 @@ work:
 awards:
   - title: Rising Stars in EECS hosted by MIT EECS
     date: '2024-10-01'
-    awarder: Coursera
+    awarder: MIT EECS
     
   - title: Rising Star in IEEE Solid-State Circuits Society (SSCS)
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+    date: '2024-02-14'
+    awarder: IEEE SSCS
+    
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
