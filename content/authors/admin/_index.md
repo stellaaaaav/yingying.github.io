@@ -11,7 +11,7 @@ last_name: Fan
 
 # Status emoji
 status:
-  icon: ⚡️
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,10 +52,10 @@ interests:
   - Brain machine interface
 
 education:
-  - area: PhD ECE
-    institution: Rice University
-    date_start: 2019-08
-    date_end: 2024-12
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
