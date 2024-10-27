@@ -54,7 +54,7 @@ interests:
 
 education:
   - area: PhD Electrical and Computer Engineering
-    institution: Rice University
+    institution: Rice University, 2024
     date_start: 2019-09-01
     date_end: 2024-12-31
     summary: |
@@ -63,7 +63,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Electrical and Computer Engineering
-    institution: University of Michigan
+    institution: University of Michigan, Ann Arbor, 2019
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -74,7 +74,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEng Information Engineering
-    institution: Southeast University
+    institution: Southeast University, 2017
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
