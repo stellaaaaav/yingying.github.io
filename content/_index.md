@@ -16,10 +16,10 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: My CV
         url: uploads/resume.pdf
   - block: markdown
-    id: section-1
+    id: News
     content:
       title: Section 1
       subtitle: A subtitle
