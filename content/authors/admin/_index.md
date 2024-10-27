@@ -50,6 +50,7 @@ interests:
   - Application-specific integrated circuits (ASIC)
   - Bioelectronics
   - Brain machine interface
+  - Health Monitoring
 
 education:
   - area: PhD Electrical and Computer Engineering
@@ -154,7 +155,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Rising Stars in EECS hosted by MIT EECS
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
@@ -183,4 +184,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a final year PhD student at Rice University advised by Dr. Taiyun Chi and expected to graduate in Dec 2024. My research interest is in Analog/RF/mmWave application-specific integrated circuit(ASIC) and system design for biomedical applications, including but not limited to implantable, wearable and wireless biomedical devices, miniaturized neural interface implants.
+
